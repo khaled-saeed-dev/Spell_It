@@ -1,0 +1,1 @@
+/usr/bin/g++  -g  -rdynamic CMakeFiles/SpellIt.dir/main.o  -o SpellIt 

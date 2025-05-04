@@ -1,0 +1,3 @@
+/workspaces/Spell_It/build/CMakeFiles/rebuild_cache.dir
+/workspaces/Spell_It/build/CMakeFiles/edit_cache.dir
+/workspaces/Spell_It/build/CMakeFiles/SpellIt.dir

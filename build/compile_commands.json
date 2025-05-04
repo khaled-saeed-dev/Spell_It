@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/workspaces/Spell_It/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++2a -o CMakeFiles/SpellIt.dir/main.o -c /workspaces/Spell_It/main.cpp",
+  "file": "/workspaces/Spell_It/main.cpp"
+}
+]
